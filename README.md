@@ -1,5 +1,5 @@
-# File Notification Channel
-The BizTalk360 Notification Channel has the capability to add the customized New Notification channels into BizTalk360. Which can be configured and the Notification will be triggered to your desired channel. You can download this File Notification Channel for reference and start building your Own Channel based on this.
+# Powershell Notification Channel
+The BizTalk360 Notification Channel has the capability to add the customized New Notification channels into BizTalk360. Which can be configured and the Notification will be triggered to your desired channel. You can download this Powershell Notification Channel for reference and start building your Own Channel based on this.
 
 NOTES: 
 
